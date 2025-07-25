@@ -1,5 +1,5 @@
 # Lyrics-creation-evaluation-AI
-詩創作＆AI解説アプリ
+歌詞創作＆AI解説アプリ
 
 主な機能
 
