@@ -1,4 +1,4 @@
-# Lyrics-creation-evaluation-AI
+# Lyrics-and-commentary-AI
 歌詞創作＆AI解説アプリ
 
 主な機能
